@@ -5,7 +5,7 @@
 ## Setup
 
 ```sh
-git clone git@github.com:fabriciovideira/docker-postgres.git
+git clone https://github.com/fabriciovideira/docker-postgres.git
 ```
 
 ```sh
